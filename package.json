@@ -1,0 +1,43 @@
+{
+    "title": "Remove-background",
+    "name": "project-removeBackground",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "gulp watch"
+    },
+    "description": "remove background project for ahsan razzaq",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive"
+    ],
+    "homepage": "#",
+    "bugs": {
+        "url": "",
+        "email": "mohsinrazzaq25@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Mohsin Razzaq",
+    "contributors": [
+        "Mohsin Razzaq (http://mohsinrazzaq.cf/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mohsinrazaq/remove-background"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "browser-sync": "2.26.3",
+        "del": "4.0.0",
+        "gulp": "^4.0.0",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-clean-css": "4.0.0",
+        "gulp-header": "2.0.7",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.2",
+        "gulp-uglify": "3.0.2",
+        "merge-stream": "^1.0.1"
+    }
+}
